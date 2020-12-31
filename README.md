@@ -12,4 +12,4 @@ My name is Rafael Virginio, I'm from São Paulo, Brazil. Technology enthusiast a
 
 ### Skills 💻
 
-HTML, CSS, Javascript, Bootstrap, Jquery
+-HTML, -CSS, -Javascript, -Bootstrap, -Jquery
