@@ -5,6 +5,6 @@ My name is Rafael Virginio, I'm from São Paulo, Brazil. 🇧🇷 Technology ent
 
 #### Sempre haverá espaço para aprendizado! 💻
 
-[![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Virginio%da%Silva-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-virg%C3%ADnio-da-silva-288a8468/)](https://www.linkedin.com/in/rafael-virg%C3%ADnio-da-silva-288a8468/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Virginio-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-virg%C3%ADnio-da-silva-288a8468/)](https://www.linkedin.com/in/rafael-virg%C3%ADnio-da-silva-288a8468/) 
 [![Gmail Badge](https://img.shields.io/badge/-rafael5845@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafael5845@gmail.com)](mailto:rafael5845@gmail.com)
 
