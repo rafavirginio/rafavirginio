@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-My name is Rafael Virginio, I'm from São Paulo, Brazil. Technology enthusiast and looking for an opportunity in the web development area. Recently graduated in Analysis and Systems Development with engagement in front-end.
+My name is Rafael Virginio, I'm from São Paulo, Brazil. 
+Technology enthusiast. Recently graduated in Analysis and Systems Development with engagement in front-end.
 
 
 #### Never stop learning!💭
